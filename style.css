@@ -45,7 +45,7 @@ a#programming {
 .small {
   font-size: 0.8em;
   margin-top: 0px;
-  padding-top: 0px;
+  padding-top: 40px;
 }
 
 body {
@@ -65,7 +65,7 @@ div#first {
 
 div#second {
   color: #f06024;
-  font-size: 3em;
+  font-size: 2em;
 
 }
 
