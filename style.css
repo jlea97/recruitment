@@ -28,6 +28,8 @@ a#programming {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  width: 440px;
+  height: 440px;
 }
 
 .vertical_center {
